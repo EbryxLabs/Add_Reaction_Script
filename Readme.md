@@ -20,6 +20,6 @@ Download the attached file and extract it.
 Open it folder in VS code.
 Install the dependencies using the command pip install -r .\requirements.txt .
 Run the Script using python automation.py.
-Script will ask for Careem Username which is m.zeeshan@ext.careem.com in my case, you need to give user name and it will keep on adding reactions to messages with emoji associated with you name.
+Script will ask for Careem Username which is m.zeeshan@ext.******.com in my case, you need to give user name and it will keep on adding reactions to messages with emoji associated with you name.
 Install Excel Viewer extension in VS code and open the data.xlsx using this extension in VS Code. Because using Microsoft Excel will hault the script when new data is added.
 Reopen the same data.xlsx file to see the updated data from sheet.
