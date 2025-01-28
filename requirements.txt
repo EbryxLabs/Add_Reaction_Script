@@ -1,0 +1,7 @@
+slack-sdk
+slack-bolt
+pytz
+pycountry
+openpyxl
+requests
+python-dotenv
